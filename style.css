@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background: lightsalmon;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.recipes.list a {
+    font-size: large;
+    text-decoration: none;
+    background-color: lightblue;
+    color: black;
+    line-height: 2.5rem;
+    
+
+}
+
+body {
+    background-color: rgb(6, 6, 43);
+}
+
+
+
+
+
+
+
+

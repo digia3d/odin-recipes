@@ -1,0 +1,29 @@
+#R {
+    text-align: center;
+    color: blueviolet;
+    background: black;
+}
+
+img {
+    width: auto;
+    height: 300px;
+    align-items: center;
+}
+
+body {
+    background: salmon;
+}
+
+#under {
+    background: white;
+}
+
+.necessary {
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+h2 {
+    background: white;
+}
+
